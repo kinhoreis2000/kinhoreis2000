@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinhoreis2000
+- 👋 Hi, I’m Luiz Henrique Reis!
 - 👀 I’m interested in data management 
 - 🌱 I’m currently learning Phyton and SQL
 - 💞️ I’m looking to collaborate on the best that technology can achieve
